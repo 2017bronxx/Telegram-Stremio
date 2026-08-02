@@ -86,14 +86,14 @@ No VPS, no Docker, no MongoDB — **TeleStremio** runs this whole idea **on your
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/weebzone/Telegram-Stremio/master/assets/app/login.png" width="230" /></td>
-    <td><img src="https://raw.githubusercontent.com/weebzone/Telegram-Stremio/master/assets/app/home.png" width="230" /></td>
-    <td><img src="https://raw.githubusercontent.com/weebzone/Telegram-Stremio/master/assets/app/channels.png" width="230" /></td>
+    <td><img src="https://raw.githubusercontent.com/weebzone/weebzone/main/assets/app/login.png" width="230" /></td>
+    <td><img src="https://raw.githubusercontent.com/weebzone/weebzone/main/assets/app/home.png" width="230" /></td>
+    <td><img src="https://raw.githubusercontent.com/weebzone/weebzone/main/assets/app/channels.png" width="230" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/weebzone/Telegram-Stremio/master/assets/app/status.png" width="230" /></td>
-    <td><img src="https://raw.githubusercontent.com/weebzone/Telegram-Stremio/master/assets/app/settings.png" width="230" /></td>
-    <td><img src="https://raw.githubusercontent.com/weebzone/Telegram-Stremio/master/assets/app/preferences.png" width="230" /></td>
+    <td><img src="https://raw.githubusercontent.com/weebzone/weebzone/main/assets/app/status.png" width="230" /></td>
+    <td><img src="https://raw.githubusercontent.com/weebzone/weebzone/main/assets/app/settings.png" width="230" /></td>
+    <td><img src="https://raw.githubusercontent.com/weebzone/weebzone/main/assets/app/preferences.png" width="230" /></td>
   </tr>
 </table>
 
