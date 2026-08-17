@@ -1010,9 +1010,9 @@ document.addEventListener('DOMContentLoaded', sessLoadStatus);
     
     <!-- ── WebDAV ──────────────────────────────────────────────────────── -->
     <div class="settings-card">
-        <h2><i class="fa-solid fa-hard-drive"></i> WebDAV (Jellyfin / Emby / Plex)</h2>
+        <h2><i class="fa-solid fa-hard-drive"></i> WebDAV</h2>
         <p style="font-size:0.82rem;color:var(--text-sec);margin-bottom:1rem">
-            Expose your library as a virtual filesystem for Jellyfin, Emby, or Plex.
+            Expose your library as a virtual filesystem.
             URL: <code id="webdav-url-hint">/webdav/&lt;API_TOKEN&gt;/</code>
             Use any valid Stremio API token in the path. Optional Basic auth below.
         </p>
@@ -1045,7 +1045,6 @@ document.addEventListener('DOMContentLoaded', sessLoadStatus);
             Movies: <code>/webdav/TOKEN/Movies/</code> ·
             TV: <code>/webdav/TOKEN/TV Shows/</code> ·
             NFO files are generated automatically.
-            For Plex, mount with rclone then add the local path.
         </p>
     </div>
 
