@@ -477,6 +477,7 @@ async def build_series_payload(
     ep_overview = (ep or {}).get("overview") or ""
     ep_aired = (ep or {}).get("aired") or (ep or {}).get("firstAired") or ""
     title = series.get("name") or series.get("slug") or ""
+    eng_name, eng_overview = _english_translation(series)
     ep_eng_name, ep_eng_overview = _english_translation(ep or {})
     ep_title = ep_eng_name or ep_title
     ep_overview = ep_eng_overview or ep_overview
